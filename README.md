@@ -33,7 +33,7 @@
 ```text
 react-news-app/
 ├─ public/
-│ └─ index.html
+│ └─ vite.svg
 ├─ src/
 │ ├─ api/
 │ │ └─ news_api.js # NewsAPI 호출 모듈
@@ -43,7 +43,7 @@ react-news-app/
 │ │ ├─ Header.jsx # 카테고리 네비게이션
 │ ├─ App.jsx
 │ ├─ main.jsx
-│ └─ index.css
+│ └─ index.html
 └─ vite.config.js
 ```
 
