@@ -60,6 +60,7 @@ npm run build   # dist/ 생성
 
 # 로컬 빌드 미리보기
 npm run preview
+```
 
 ## 6. 스크린샷
 > 필요 시 `public/screenshots/` 폴더에 이미지를 추가하고 아래 경로를 수정한다.  
