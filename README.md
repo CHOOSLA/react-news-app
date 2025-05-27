@@ -35,11 +35,12 @@ react-news-app/
 ├─ public/
 │ └─ index.html
 ├─ src/
+│ ├─ api/
+│ │ └─ news_api.js # NewsAPI 호출 모듈
 │ ├─ components/
+│ │ ├─ BaseCard.jsx # 뉴스 카드
+│ │ ├─ Body.jsx # 메인 페이지
 │ │ ├─ Header.jsx # 카테고리 네비게이션
-│ │ └─ StyledCom.jsx # 스타일 컴포넌트 데모
-│ ├─ hooks/
-│ │ └─ useNewApi.js # NewsAPI 호출 모듈
 │ ├─ App.jsx
 │ ├─ main.jsx
 │ └─ index.css

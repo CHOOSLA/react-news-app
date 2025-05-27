@@ -1,7 +1,7 @@
 import styled from 'styled-components'
 import BaseCard from './BaseCard'
 import { useState } from 'react'
-import useNewApi from '../assets/api/news_api'
+import useNewApi from '../api/news_api'
 
 const Container = styled.div`
   width: 100%;
