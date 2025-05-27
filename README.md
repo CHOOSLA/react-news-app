@@ -30,6 +30,7 @@
 
 ## 4. 프로젝트 구조
 
+```text
 react-news-app/
 ├─ public/
 │ └─ index.html
@@ -43,6 +44,7 @@ react-news-app/
 │ ├─ main.jsx
 │ └─ index.css
 └─ vite.config.js
+```
 
 ## 5. 시작하기
 
