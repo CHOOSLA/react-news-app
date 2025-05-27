@@ -63,8 +63,7 @@ npm run preview
 ```
 
 ## 6. 스크린샷
-> 필요 시 `public/screenshots/` 폴더에 이미지를 추가하고 아래 경로를 수정한다.  
-> `<img src="public/screenshots/desktop-demo.png" width="80%" alt="데스크톱 화면 예시">`
+> `<img src="public/screenshot_1.png" width="80%" alt="데스크톱 화면 예시">`
 
 ## 7. 환경 변수
 | 변수명 | 설명 |
